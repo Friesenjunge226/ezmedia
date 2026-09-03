@@ -1,4 +1,4 @@
-```markdown
+
 # ezmedia
 
 `ezmedia` is a lightweight Python command-line utility designed to easily download media from YouTube, YouTube Music, and image platforms without ads. It automatically handles URL sanitization, format conversion for video editors like DaVinci Resolve, and optional AI stem separation.
