@@ -26,10 +26,10 @@ Ensure you have the following CLI tools installed and accessible in your system 
 
 ### Optional Dependencies
 - **[demucs](https://github.com/facebookresearch/demucs)** (Required only if using `--split`):
-  ```bash
-  pip install demucs numpy soundfile
-
 ```
+  pip install demucs numpy soundfile
+```
+
 
 * **JavaScript Engine** (`deno` or `node`): Recommended for resolving YouTube JS challenges.
 
@@ -41,7 +41,6 @@ Run `ezmedia` using Python directly:
 
 ```bash
 python3 ezmedia.py <URL> [OPTIONS]
-
 ```
 
 ### 1. Download a Single Song or Video
@@ -97,7 +96,3 @@ python3 ezmedia.py "[https://music.youtube.com/watch?v=f-ap_-wr_ck](https://musi
 ## License
 
 Source-available / Personal Use.
-
-```
-
-```
